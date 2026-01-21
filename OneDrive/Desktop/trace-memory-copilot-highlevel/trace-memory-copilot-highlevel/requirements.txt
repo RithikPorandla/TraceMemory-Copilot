@@ -1,7 +1,0 @@
-ag2[ollama]>=0.9
-ollama>=0.4.8
-streamlit>=1.44.1
-pandas>=2.0.0
-zep-cloud>=2.11.0
-python-dotenv>=1.0.1
-openai>=1.40.0
